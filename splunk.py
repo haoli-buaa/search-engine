@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from bloom_filter import BloomFilter
 from segments import segments
 
